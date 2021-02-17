@@ -5,3 +5,27 @@
 
 ## install pdfmake
 npm i pdfmake
+
+## Documentation
+Documentation URL: https://pdfmake.github.io/docs/
+
+Building from sources version 0.1.x
+
+git clone --branch 0.1 https://github.com/bpampuch/pdfmake.git
+cd pdfmake
+npm install
+npm run build
+using yarn:
+
+git clone --branch 0.1 https://github.com/bpampuch/pdfmake.git
+cd pdfmake
+yarn
+yarn run build
+
+
+## using yarn:
+
+git clone --branch 0.1 https://github.com/bpampuch/pdfmake.git
+cd pdfmake
+yarn
+yarn run build
